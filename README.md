@@ -2,7 +2,7 @@
 
   <img src="https://avatars.githubusercontent.com/u/104996458?v=4" width="150" alt="Saksham Arora" style="border-radius:50%;">
   
-  <h1>Saksham Arora</h1>
+  <h1>Saksham</h1>
   <h3>Full-Stack Web Developer</h3>
   
   <br>
