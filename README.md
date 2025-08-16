@@ -45,7 +45,7 @@ This section features my most significant project, demonstrating my skills in ac
         <strong>Technologies Used:</strong> MongoDB, Express.js, React, Node.js, Socket.IO
       </p>
       <p>
-        <a href="[LINK_TO_YOUR_PROJECT_REPO]" target="_blank"><b>View Source Code →</b></a>
+        <a href="https://github.com/arora427/ChatWave" target="_blank"><b>View Source Code →</b></a>
         &nbsp;&nbsp;
         <a href="https://chatwave-u2te.onrender.com" target="_blank"><b>Live Demo →</b></a>
       </p>
