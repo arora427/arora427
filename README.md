@@ -47,7 +47,7 @@ This section features my most significant project, demonstrating my skills in ac
       <p>
         <a href="[LINK_TO_YOUR_PROJECT_REPO]" target="_blank"><b>View Source Code →</b></a>
         &nbsp;&nbsp;
-        <a href="[LINK_TO_YOUR_LIVE_DEMO]" target="_blank"><b>Live Demo →</b></a>
+        <a href="https://chatwave-u2te.onrender.com" target="_blank"><b>Live Demo →</b></a>
       </p>
     </td>
   </tr>
