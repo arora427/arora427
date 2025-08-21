@@ -47,7 +47,7 @@ This section features my most significant project, demonstrating my skills in ac
       <p>
         <a href="https://github.com/arora427/ChatWave" target="_blank"><b>View Source Code →</b></a>
         &nbsp;&nbsp;
-        <a href="https://chatwave-u2te.onrender.com" target="_blank"><b>Live Demo →</b></a>
+        <a href="https://chatwave-0xyv.onrender.com" target="_blank"><b>Live Demo →</b></a>
       </p>
     </td>
   </tr>
